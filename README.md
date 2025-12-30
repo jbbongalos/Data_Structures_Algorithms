@@ -1,2 +1,9 @@
-# Data_Structures_Algorithms
-Python implementations of fundamental data structures including lists and stacks using arrays and linked lists.
+# Data Structures and Algorithms
+
+This repository contains Python implementations of fundamental data structures and algorithms, focusing on lists and stacks using arrays and linked lists.
+
+# Contents
+- ✅ Lists 
+- ✅ Stacks 
+- ✅ Python Source Code Files
+---
